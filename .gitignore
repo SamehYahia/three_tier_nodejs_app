@@ -1,0 +1,11 @@
+# Node
+node_modules/
+npm-debug.log
+# Build
+frontend/build/
+# Environment variables
+.env
+.env.development
+.env.production
+# OS generated files
+.DS_Store
