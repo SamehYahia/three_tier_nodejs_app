@@ -9,3 +9,4 @@ frontend/build/
 .env.production
 # OS generated files
 .DS_Store
+.learning
